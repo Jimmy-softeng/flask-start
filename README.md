@@ -21,5 +21,6 @@ with app.app_context():
     
     print("User added successfully!")
 8.then click the outline and you will see the database user and be able to see the data inside.
+9.the exit the python shell by typing exit()
 
 
